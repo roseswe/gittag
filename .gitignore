@@ -1,3 +1,4 @@
 main
 CVS/*
 .gitchangelog.rc
+.vscode/settings.json

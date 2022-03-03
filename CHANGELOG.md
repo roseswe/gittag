@@ -5,6 +5,7 @@ Changelog
 ------------------
 
 Changes
+
 ~~~~~~~
 - Misc. [roseswe]
 
@@ -25,4 +26,3 @@ Other
 - Smaller. [roseswe]
 - Gitignore. [roseswe]
 - Initial added. [roseswe]
-
