@@ -1,11 +1,29 @@
 Changelog
 =========
 
+1.0.2 (2022-03-04)
+------------------
+
+Changes
+~~~~~~~
+- Added vscode directory. [roseswe]
+- Misc. enhancements. [roseswe]
+- Pimped gitignore. [roseswe]
+
+Fix
+~~~
+- Added she-bang definition. [roseswe]
+
+Other
+~~~~~
+- Merge branch 'master' of https://github.com/roseswe/gittag. [roseswe]
+- Create README.md. [Ralph Roth]
+- Delete .vscode directory. [Ralph Roth]
+
 1.0.1 (2022-03-03)
 ------------------
 
 Changes
-
 ~~~~~~~
 - Misc. [roseswe]
 
@@ -26,3 +44,4 @@ Other
 - Smaller. [roseswe]
 - Gitignore. [roseswe]
 - Initial added. [roseswe]
+
