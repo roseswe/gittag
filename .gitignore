@@ -1,6 +1,6 @@
 main
 CVS/*
-.gitchangelog.rc
 .vscode/settings.json
 .vscode/launch.json
 .vscode/*
+.gitchangelog.rc
